@@ -30,7 +30,7 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="#FF0021">
+                    android:background="#d9a3aa">
 
 
                     <EditText
@@ -63,7 +63,7 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="#FF0023"
+                    android:background="#c2818a"
 
                     >
 
@@ -98,7 +98,7 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="#FF0022"
+                    android:background="#b4717a"
 
                     >
 
@@ -134,7 +134,7 @@
                     android:id="@+id/contact"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="#FF0022">
+                    android:background="#a35f68">
 
                     <TextView
                         android:id="@+id/lbl_emi"

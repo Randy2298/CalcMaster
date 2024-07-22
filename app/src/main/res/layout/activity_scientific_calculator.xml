@@ -17,6 +17,7 @@
         android:layout_alignParentStart="true"
         android:editable="false"
         android:onClick="onClick"
+
         android:textAlignment="textEnd"
         android:gravity="end"
         tools:ignore="OnClick" />
@@ -30,6 +31,7 @@
         android:layout_alignParentStart="true"
         android:editable="false"
         android:onClick="onClick"
+
         android:textAlignment="textEnd"
         android:gravity="end"
         tools:ignore="OnClick" />
@@ -51,7 +53,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal"
+
                 >
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -65,12 +69,15 @@
                         android:text="@string/square"
                         android:onClick="onClick"
                         android:textAllCaps="false"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         tools:ignore="OnClick" />
 
+
                 </LinearLayout>
+
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -85,7 +92,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -105,7 +112,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -124,7 +131,7 @@
                         android:id="@+id/clear"
                         android:onClick="onClick"
                         tools:ignore="OnClick"
-                        android:background="#ED0000"
+                        android:background="#492ffa"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -132,6 +139,7 @@
                 </LinearLayout>
 
             </LinearLayout>
+
 
         </LinearLayout>
 
@@ -145,7 +153,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal"
+
                 >
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -160,12 +170,15 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
 
+
                 </LinearLayout>
+
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -180,7 +193,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -200,7 +213,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -219,7 +232,7 @@
                         android:id="@+id/backSpace"
                         android:onClick="onClick"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#523af8"
                         android:textColor="@android:color/white"
                         android:textSize="25sp"
                         />
@@ -227,6 +240,7 @@
                 </LinearLayout>
 
             </LinearLayout>
+
 
         </LinearLayout>
 
@@ -240,7 +254,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal"
+
                 >
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -256,12 +272,15 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#523af8"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
 
+
                 </LinearLayout>
+
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -276,7 +295,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -296,7 +315,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -315,7 +334,7 @@
                         android:id="@+id/pi"
                         android:onClick="onClick"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -323,6 +342,7 @@
                 </LinearLayout>
 
             </LinearLayout>
+
 
         </LinearLayout>
 
@@ -336,7 +356,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal"
+
                 >
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -352,12 +374,15 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
 
+
                 </LinearLayout>
+
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -372,9 +397,10 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
+
                         />
 
                 </LinearLayout>
@@ -392,7 +418,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -411,7 +437,7 @@
                         android:id="@+id/divide"
                         android:onClick="onClick"
                         tools:ignore="OnClick"
-                        android:background="#FD0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -420,7 +446,9 @@
 
             </LinearLayout>
 
+
         </LinearLayout>
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -432,7 +460,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal"
+
                 >
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -448,12 +478,15 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
 
+
                 </LinearLayout>
+
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -468,7 +501,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -488,7 +521,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -507,7 +540,7 @@
                         android:id="@+id/multiply"
                         android:onClick="onClick"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -515,6 +548,7 @@
                 </LinearLayout>
 
             </LinearLayout>
+
 
         </LinearLayout>
 
@@ -528,7 +562,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal"
+
                 >
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -544,12 +580,15 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
 
+
                 </LinearLayout>
+
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -564,7 +603,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -584,7 +623,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -603,7 +642,7 @@
                         android:id="@+id/minus"
                         android:onClick="onClick"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -612,7 +651,9 @@
 
             </LinearLayout>
 
+
         </LinearLayout>
+
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -624,7 +665,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal"
+
                 >
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -640,12 +683,15 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
 
+
                 </LinearLayout>
+
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -660,7 +706,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -680,7 +726,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -699,7 +745,7 @@
                         android:id="@+id/plus"
                         android:onClick="onClick"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#8574fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -707,6 +753,7 @@
                 </LinearLayout>
 
             </LinearLayout>
+
 
         </LinearLayout>
 
@@ -720,7 +767,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="horizontal"
+
                 >
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -736,12 +785,15 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
 
+
                 </LinearLayout>
+
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -756,7 +808,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -776,7 +828,7 @@
                         android:onClick="onClick"
                         android:textAllCaps="false"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#523af8"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -795,7 +847,7 @@
                         android:id="@+id/mode"
                         android:onClick="onClick"
                         tools:ignore="OnClick"
-                        android:background="#FF0000"
+                        android:background="#5d46fc"
                         android:textColor="@android:color/white"
                         android:textSize="20sp"
                         />
@@ -804,7 +856,10 @@
 
             </LinearLayout>
 
+
         </LinearLayout>
+
+
 
     </LinearLayout>
 

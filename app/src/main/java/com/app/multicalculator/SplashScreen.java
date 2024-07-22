@@ -17,8 +17,8 @@ public class SplashScreen extends AppCompatActivity {
     int counter = 0;
 
 
-    //After completion of 10000 ms, the next activity will get started.
-    private static int SPLASH_SCREEN_TIME_OUT = 10000;
+    //After completion of 20000 ms, the next activity will get started.
+    private static int SPLASH_SCREEN_TIME_OUT = 2000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

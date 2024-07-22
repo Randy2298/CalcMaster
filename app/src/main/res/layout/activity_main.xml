@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="#85FD0000"
+    android:background="#85B8CACD"
 
     >
 
@@ -48,20 +48,20 @@
                    android:lineSpacingExtra="11sp"
                    android:text="Welcome to"
                    android:textColor="#7eacf7"
-                   android:textSize="25sp" />
+                   android:textSize="18sp" />
 
                <TextView
                    android:id="@+id/text1"
                    android:layout_width="wrap_content"
                    android:layout_height="wrap_content"
                    android:layout_centerVertical="true"
-                   android:layout_marginLeft="80dp"
+                   android:layout_marginLeft="20dp"
                    android:fontFamily="@font/inter_bold"
                    android:letterSpacing="-0.04"
                    android:lineSpacingExtra="11sp"
                    android:text="CalcMaster"
                    android:textColor="#3573e9"
-                   android:textSize="50sp" />
+                   android:textSize="35sp" />
 
                <ImageView
                    android:id="@+id/bottom_nav"
@@ -92,7 +92,7 @@
                    android:layout_marginLeft="6dp"
                    android:fontFamily="@font/inter_semibold"
                    android:lineSpacingExtra="3sp"
-                   android:text=""
+                   android:text="Category"
                    android:textColor="#7eacf7"
                    android:textSize="20sp"
 

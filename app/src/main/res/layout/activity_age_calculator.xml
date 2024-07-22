@@ -31,7 +31,7 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="#FF0000">
+                    android:background="#e9c5ff">
 
 
                     <Button
@@ -69,7 +69,7 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="#EC0000"
+                    android:background="#daa1fe"
 
                     >
 
@@ -107,7 +107,7 @@
                     android:id="@+id/contact"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="#FF0000">
+                    android:background="#cf8cf9">
 
                     <TextView
                         android:layout_width="wrap_content"

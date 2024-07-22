@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 public class HelpActivity extends AppCompatActivity {
 
-    private static final String VIDEO_URL = "https://www.youtube.com/embed/dRnE68ibmvc?si=YPOhdZcXtUCS9Gzm";
+    private static final String VIDEO_URL = "https://www.youtube.com/embed/LaKJESPO_Eg?si=tF9P5-pBmrOxJqTq";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

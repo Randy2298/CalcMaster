@@ -72,7 +72,7 @@ public class EMICalculator extends AppCompatActivity {
         double roundEmi = Math.round( message * 100.0 ) / 100.0;
         String stringEmi= Double.toString(roundEmi);
         TextView emiTextView = (TextView) findViewById(R.id.emi);
-        emiTextView.setText("₹ " + stringEmi);
+        emiTextView.setText("$ " + stringEmi);
     }
 
 
