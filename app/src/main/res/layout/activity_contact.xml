@@ -52,7 +52,7 @@
                     android:fontFamily="@font/inter_bold"
                     android:letterSpacing="-0.04"
                     android:lineSpacingExtra="11sp"
-                    android:text="Version 1.0"
+                    android:text="Version 2.0"
                     android:textColor="#f9cd1d"
                     android:textSize="18sp" />
 
